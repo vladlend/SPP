@@ -7,9 +7,10 @@ using System.Threading.Tasks;
 
 namespace QuickSort
 {
-    public class QuickSort
+    public class QuickSort<T> where T : IComparable<T>
     {
-        public static void QuicksortGeneric<T>(T[] elements, int left, int right) where T : IComparable
+        public T pivot { get;set;}
+        public void QuicksortGeneric(T[] elements, int left, int right)
         {
             int i = left, j = right;
             T pivot = elements[(left + right) / 2];
@@ -55,17 +56,28 @@ namespace QuickSort
     {
         static void Main(string[] args)
         {
-            QuickSort quickSort = new QuickSort();
+            //QuickSort quickSort = new QuickSort();
             Random rand = new Random();
-            int[] a = new int[1000];
+            int[] a = new int[100];
             for (int i = 0; i < a.Length; i++)
-                a[i] = rand.Next(-50000,50000);
-            
-            foreach (var temp in a)
+                a[i] = rand.Next(-1000,1000);
+
+            Console.WriteLine();
+            //print unsorted array
+            for (int i = 0; i < a.Length; i++)
             {
-                Console.Write("{0} ",temp);
+                Console.Write(a[i] + " ");
             }
-            Console.ReadKey();
+            QuickSort<int> q = new QuickSort<int>();
+            Console.WriteLine("\n");
+            q.QuicksortGeneric(a, 0, a.Length - 1);
+
+            for (int i = 0; i < a.Length; i++)
+            {
+                Console.Write(a[i] + " ");
+            }
+
+            int x = Console.Read();
         }
     }
 }

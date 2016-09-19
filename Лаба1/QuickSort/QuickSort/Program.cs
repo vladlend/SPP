@@ -7,9 +7,8 @@ using System.Threading.Tasks;
 
 namespace QuickSort
 {
-    public class QuickSort<T> where T : IComparable<T>
+    public class QuickSort<T> where T : IComparable
     {
-        public T pivot { get;set;}
         public void QuicksortGeneric(T[] elements, int left, int right)
         {
             int i = left, j = right;

@@ -1,0 +1,7 @@
+C:\Users\a\Desktop\универ\3 курс\СПП\Лаба2\WeakDelegate\UnitTest\bin\Debug\UnitTest.dll
+C:\Users\a\Desktop\универ\3 курс\СПП\Лаба2\WeakDelegate\UnitTest\bin\Debug\UnitTest.pdb
+C:\Users\a\Desktop\универ\3 курс\СПП\Лаба2\WeakDelegate\UnitTest\bin\Debug\WeakDelegate.exe
+C:\Users\a\Desktop\универ\3 курс\СПП\Лаба2\WeakDelegate\UnitTest\bin\Debug\WeakDelegate.pdb
+C:\Users\a\Desktop\универ\3 курс\СПП\Лаба2\WeakDelegate\UnitTest\obj\Debug\UnitTest.csprojResolveAssemblyReference.cache
+C:\Users\a\Desktop\универ\3 курс\СПП\Лаба2\WeakDelegate\UnitTest\obj\Debug\UnitTest.dll
+C:\Users\a\Desktop\универ\3 курс\СПП\Лаба2\WeakDelegate\UnitTest\obj\Debug\UnitTest.pdb

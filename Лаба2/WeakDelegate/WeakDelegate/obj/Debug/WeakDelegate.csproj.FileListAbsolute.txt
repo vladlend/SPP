@@ -1,0 +1,6 @@
+C:\Users\a\Desktop\универ\3 курс\СПП\Лаба2\WeakDelegate\WeakDelegate\bin\Debug\WeakDelegate.exe.config
+C:\Users\a\Desktop\универ\3 курс\СПП\Лаба2\WeakDelegate\WeakDelegate\bin\Debug\WeakDelegate.exe
+C:\Users\a\Desktop\универ\3 курс\СПП\Лаба2\WeakDelegate\WeakDelegate\bin\Debug\WeakDelegate.pdb
+C:\Users\a\Desktop\универ\3 курс\СПП\Лаба2\WeakDelegate\WeakDelegate\obj\Debug\WeakDelegate.csprojResolveAssemblyReference.cache
+C:\Users\a\Desktop\универ\3 курс\СПП\Лаба2\WeakDelegate\WeakDelegate\obj\Debug\WeakDelegate.exe
+C:\Users\a\Desktop\универ\3 курс\СПП\Лаба2\WeakDelegate\WeakDelegate\obj\Debug\WeakDelegate.pdb
